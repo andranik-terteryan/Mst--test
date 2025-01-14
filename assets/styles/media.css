@@ -67,7 +67,7 @@
     .app-footer-bottom{display:none}
     .app-footer-bottom-mobile{display:block}
     .footer-bottom-listing>ul>li:not(:first-child){margin-top:15px}
-    .brand{text-align:center}
+    .footer-bottom-listing .brand{text-align:center}
     .footer-bottom-listing > ul > li{margin-top:15px}
     }
     @media only screen and (max-width:576px) {
