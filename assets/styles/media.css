@@ -69,6 +69,7 @@
     .footer-bottom-listing>ul>li:not(:first-child){margin-top:15px}
     .footer-bottom-listing .brand{text-align:center}
     .footer-bottom-listing > ul > li{margin-top:15px}
+    .brand a{font-size: 17px;line-height: 24px;}
     }
     @media only screen and (max-width:576px) {
     .form-group:first-child{margin-top:0}
